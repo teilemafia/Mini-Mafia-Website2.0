@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: mini-mafia-motorenschmiede
+    runtime: static
+    staticPublishPath: .
